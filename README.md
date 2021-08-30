@@ -5,7 +5,7 @@ account will be created for you very quickly
 - Python 3.9
 - `pip install requests`
 - `Open main.py`
-- OR
+      OR
 ```
 Python main.py
 ```
