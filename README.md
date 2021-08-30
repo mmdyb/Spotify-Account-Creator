@@ -4,7 +4,7 @@ account will be created for you very quickly
 <br />
 <p align="center">
   <a href="https://github.com/GoldenStarq/Spotify-Account-Creator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/jvGKiRi.gif" width="80" height="80">
   </a>
 
 # Requirements
