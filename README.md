@@ -8,7 +8,7 @@ account will be created for you very quickly
 
 OR
 
-```
+```c
 Python main.py
 ```
 
