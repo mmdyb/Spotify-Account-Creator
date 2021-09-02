@@ -10,7 +10,7 @@ account will be created for you very quickly
 # Requirements
 - Python 3.9
 - `pip install requests`
-- Use Proxise
+- Use Proxies
 - Open main.py
 
 OR
