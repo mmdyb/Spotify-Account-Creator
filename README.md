@@ -13,7 +13,7 @@ account will be created for you very quickly
 - Use Proxies
 - Open main.py
 
-OR
+OR enter that in terminal
 
 ```
 Python main.py
