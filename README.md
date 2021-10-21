@@ -9,7 +9,7 @@ account will be created for you very quickly
 
 # Requirements
 - Python 3.9
-- `pip install requests`
+- `pip install requires`
 - Use Proxies
 - Open main.py
 
