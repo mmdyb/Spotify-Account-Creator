@@ -11,6 +11,8 @@ account will be created for you very quickly
 - Python 3.9
 - `pip install requires`
 - Use Proxies
+
+# Start
 - Open main.py
 
 OR enter that in terminal
