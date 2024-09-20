@@ -1,4 +1,4 @@
-#Creating by star
+# Developed by star
 
 from sys import stdout
 from requests import post
